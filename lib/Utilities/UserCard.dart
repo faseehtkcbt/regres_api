@@ -31,5 +31,3 @@ Widget UserCard(BuildContext context,List <Data> data){
     );
   },);
 }
-
-
